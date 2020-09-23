@@ -5,7 +5,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Montserrat-Bold";
+  font-family: "Sacramento";
 }
 
 p {
@@ -81,7 +81,7 @@ p {
 
 #title {
   background-color: #4cbbb9;
-  color: #fff;
+  color: #1a1c20;
   text-align: left;
 }
 
@@ -208,3 +208,4 @@ p {
 .site-footer {
     background-image: linear-gradient(#d4f3ef, white);
     padding: 20px 0;
+
