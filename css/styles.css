@@ -5,7 +5,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Sacramento";
+  font-family: "Montserrat";
 }
 
 p {
@@ -92,6 +92,8 @@ p {
 /* Title Image */
 
 .title-image {
+
+  border-radius: 100px;
   width: 102%;
   transform: rotate(20deg);
   position: absolute;
