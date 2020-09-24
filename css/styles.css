@@ -8,6 +8,10 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Montserrat";
 }
 
+h2 {
+  font-size: medium;
+}
+
 p {
   color: #8f8f8f;
 }
@@ -177,7 +181,7 @@ p {
 }
 
 .price-text {
-  font-size: 3rem;
+  font-size: 40px;
   line-height: 1.5;
 }
 
@@ -210,4 +214,8 @@ p {
 .site-footer {
     background-image: linear-gradient(#d4f3ef, white);
     padding: 20px 0;
+}
 
+.carousel-item img {
+  height: auto;
+}
