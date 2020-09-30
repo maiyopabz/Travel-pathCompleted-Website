@@ -10,7 +10,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h2 {
   position: relative;
-  font-size: medium;
+  font-size: 1.5rem;
 }
 
 p {
@@ -33,7 +33,7 @@ p {
 }
 
 .section-heading {
-  font-size: 3rem;
+  font-size: 2rem;
   line-height: 1.5;
 }
 
@@ -189,7 +189,9 @@ p {
 
 #pricing {
   padding: 100px;
+  
 }
+
 
 .price-text {
   font-size: 40px;
@@ -198,6 +200,7 @@ p {
 
 .pricing-column {
   padding: 3% 2%;
+  
 }
 
 /* CTA Section */
